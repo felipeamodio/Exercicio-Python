@@ -4,7 +4,7 @@
 
 Nele irei realizar os a lista de exercícios:
 
-- Estrutura Sequencial
+- Estrutura Sequencial ✅
 - Estrutura de Decisão
 - Estrutura de repetição
 - Listas
