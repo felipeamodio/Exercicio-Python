@@ -15,7 +15,7 @@ Nele irei realizar os a lista de exercícios:
 - Exercícios de Projetos
 
 ### O objetivo é treinar essa nova linguagem que estou aprendendo e ir acompanhando minha evolução.
-E quem quiser utilizar esse repositório pode ficar a vontade 😄
+E quem quiser utilizar esse repositório para treinar exercícios de Python pode ficar a vontade 😄
 
 
-####Obrigado pessoal!!
+###Obrigado pessoal!! 🖖🏽
